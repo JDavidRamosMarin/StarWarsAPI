@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STAR WARS API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d510036f0336e31be5ee5aea79f5299dcb0b6085")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+388db6882529b94da63efd30eb217531d384addc")]
 [assembly: System.Reflection.AssemblyProductAttribute("STAR WARS API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STAR WARS API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

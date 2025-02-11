@@ -13,5 +13,6 @@ namespace STAR_WARS_API
         // Creara una tabla con los datos de cada entidad
         // *
         public DbSet<Character> Characters { get; set; }
+        public DbSet<Director> Directors { get; set; }
     }
 }
